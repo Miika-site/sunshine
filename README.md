@@ -1,4 +1,5 @@
 # sunshine
 sunshine
 
-Hello sunshine! Sun is shining.
+
+This README is short and shiny. 
